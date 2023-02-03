@@ -38,7 +38,7 @@ Each folder in *1 Projects* has a prefix starting with 100 and increasing.
     - ...
 ```
 
-To add a new project, e.g. finding a birthday present dor John, you add a folder and with the next number prefix.
+To add a new project, e.g. finding a birthday present dor John, you add a folder with the number prefix.
 ```
 - 1 Projects
     - 100 Learn COBOL
