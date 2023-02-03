@@ -6,7 +6,7 @@ It is also influenced by [*Second Brain*](https://www.buildingasecondbrain.com/)
 
 ## Main structure
 
-There are four main folders: *Projects*, *Areas*, *Resources*, *Archive*.
+There are four main folders: *1 Projects*, *2 Areas*, *3 Resources*, *4 Archive*.
 The purpose of each folder is based on the kind of action you are performing:
 
 1. Something I am acting on for a limited time frame. → Projects
@@ -23,16 +23,34 @@ The purpose of each folder is based on the kind of action you are performing:
 
 ## Folder structure in *1 Projects*
 
-Folders in *Projects* are always numbered starting with 100 and increasing.
-If you start a new project, add the next number and name of the project.
+Each folder in *1 Projects* has a prefix starting with 100 and increasing.
+
 ```
 - 1 Projects
-    - 100 duohausdhs
-    - 101 sdoihasu<odh
-    - 102 sdhasudhaus
+    - 100 Learn COBOL
+    - 101 Taxes 2022
+    - 102 Roof repair
 - 2 Areas
+    - ...
 - 3 Resources
+    - ...
 - 4 Archive
+    - ...
+```
+
+To add a new project, e.g. finding a birthday present dor John, you add a folder and with the next number prefix.
+```
+- 1 Projects
+    - 100 Learn COBOL
+    - 101 Taxes 2022
+    - 102 Roof repair
+    - 103 Birthday present for John
+- 2 Areas
+    - ...
+- 3 Resources
+    - ...
+- 4 Archive
+    - ...
 ```
 
 ## Folder structure in *2 Areas* and *3 Resources*
