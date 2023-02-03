@@ -1,3 +1,10 @@
+# Luca Decimal Specification
+
+TODO intro: what is this, what is it for
+TODO add link to blog post of motivation later
+
+## Main structure
+
 Main structure with 4 folders from *second brain*.
 ```
 - 1 Projects
@@ -5,6 +12,8 @@ Main structure with 4 folders from *second brain*.
 - 3 Resources
 - 4 Archive
 ```
+
+## Folder structure in *1 Projects*
 
 Folders in *Projects* are always numbered starting with 100 and increasing.
 If you start a new project, add the next number and name of the project.
@@ -17,6 +26,8 @@ If you start a new project, add the next number and name of the project.
 - 3 Resources
 - 4 Archive
 ```
+
+## Folder structure in *2 Areas* and *3 Resources*
 
 Folders in *Areas* and *Resources* don't need to be numbered.
 Some or all may be numbered to "pin" them on the top.
@@ -40,6 +51,8 @@ Some or all may be numbered to "pin" them on the top.
     - saydhasudh
 - 4 Archive
 ```
+
+## Folder structure in *4 Archive*
 
 Folder numbering is free in *Archive*.
 Probably a good idea to at least remove the number to avoid confusion.
@@ -69,6 +82,8 @@ After:
     - ...
 ```
 
+## Subfolders numbering
+
 Additional level of numbering can be included *Jonny Decimal* style for numbered folders.
 ```
 - 1 Projects
@@ -90,6 +105,8 @@ Additional level of numbering can be included *Jonny Decimal* style for numbered
 - 4 Archive
     - ...
 ```
+
+## Consistency among different apps
 
 Consistency among systems.
 All programs should follow the same structure.
