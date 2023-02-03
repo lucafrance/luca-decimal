@@ -6,7 +6,14 @@ It is also influenced by [*Second Brain*](https://www.buildingasecondbrain.com/)
 
 ## Main structure
 
-Main structure with 4 folders from *second brain*.
+There are four main folders: *Projects*, *Areas*, *Resources*, *Archive*.
+The purpose of each folder is based on the kind of action you are performing:
+
+1. Something I am acting on for a limited time frame. → Projects
+2. Something I am regularly acting on. → Areas
+3. Something I am not acting on, but might be useful to act. → Resources
+4. Something I am no longer acting on. → Archive
+
 ```
 - 1 Projects
 - 2 Areas
