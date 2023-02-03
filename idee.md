@@ -1,0 +1,2 @@
+- [ ] invece di fare la struttura delle cartelle in code snippets, posso fare dei disegnini e inserire quelli
+- [ ] Struttura di cartelle d'esempio
