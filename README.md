@@ -4,12 +4,18 @@ This is the specification of *Luca-decimal*, the system I designed over time to 
 It has been influenced by [*Johnny Decimal*](https://johnnydecimal.com/), a system inspired by *Dewey Decimal*.
 It is also influenced by [*Second Brain*](https://www.buildingasecondbrain.com/), a system designed for note-taking, but which can also be used for other purposes.
 
+**Key principles**
+
+- acting > not acting
+- Any mental burden on starting something new must be removed.
+Better to create more messier, than to create less orderly.
+
 ## Main structure
 
 There are four main folders: *1 Projects*, *2 Areas*, *3 Resources*, *4 Archive*.
 The purpose of each folder is based on the kind of action you are performing:
 
-1. Something I am acting on for a limited time frame. → Projects
+1. Something I am acting on for a limited timeframe. → Projects
 2. Something I am regularly acting on. → Areas
 3. Something I am not acting on, but might be useful to act. → Resources
 4. Something I am no longer acting on. → Archive
@@ -86,8 +92,9 @@ In *1 Projects* the index sorts the folders by creation date, in *2 Areas*, *3 R
 
 ## Folder structure in *4 Archive*
 
-Folder numbering is free in *Archive*.
-Probably a good idea to at least remove the number to avoid confusion.
+There is no naming restriction in *4 Archive*.
+When archiving a folder, you might decide to remove the index to avoid confusion.
+
 E.g. project *117 Lorem Ipsum* is complete, you rename it to *Lorem Ipsum* and move it  to archive.
 
 Before:
