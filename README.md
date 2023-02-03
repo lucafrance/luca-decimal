@@ -91,4 +91,17 @@ Additional level of numbering can be included *Jonny Decimal* style for numbered
     - ...
 ```
 
+Consistency among systems.
+All programs should follow the same structure.
+- Local files.
+- Note taking apps.
+- Todo-apps
 
+It doesn't need to be replicated everywhere all the time, but if anything related is across multiple programs it must stay consistent.
+Example:
+> You have an folder in *2 Areas* called *201 Health*, where you save the pdfs of your exams.
+> You don't need *Health* in your note taking and todo apps right away.
+> If you add a reminder in your todo-app for a yearly check-up, then you should also name it *Health*.
+> If you add a note of the opening times of your doctor, it also must end up in a folder called *Health*.
+
+TODO screenshot d'esempio
