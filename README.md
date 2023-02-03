@@ -121,27 +121,57 @@ After:
     - ...
 ```
 
-## Subfolders numbering
+## Subfolders indexing
 
-Additional level of numbering can be included *Jonny Decimal* style for numbered folders.
+You may decide to index subfolders ().01, .02, .03, ...) similarly to [*Jonny Decimal*'s IDs](https://johnnydecimal.com/concepts/ids/).
+When in doubt, don't index to avoid mental burden.
+If any kind naming convention makes more sense (e.g. by date), use it.
+
 ```
 - 1 Projects
     - ...
 - 2 Areas
-    - ...
-    - 221 sdhasudhaus
-        - 202.01 idasuhd
-        - 202.02 eujasidj
-        - 202.03 dihasudha
+    - 200 Health
+        - ...
+    - 201 Finances
+        - 201.01 Bank account
+        - 201.02 Savings account
+        - 201.03 Credit cards
+        - 201.04 Receipts
+    - 202 Work
+        - ...
+    - 203 Family pictures
+        - 2022
+        - 2023
+        - ...
+    - ID documents
+        - ...
+    - Travel card
+        - ...
+    - Utilities bills
+        - ...
     - ...
 - 3 Resources
-    - ...
-    - 312 sdhasudhaus
-        - 312.01 aoishad
-        - 312.02 adhqoisjdwai
-        - 312.03 asidhasudh
+    - 300 Books
+        - H.G. Wells
+        - Umberto Eco
+        - ...
+    - 301 Comics
+        - ...
+    - 302 Software
+        - 302.01 Operating systems
+        - 302.02 Drivers
+        - 302.03 Applications
+    - History documentaries
+        - ...
+    - Instruction manuals
+        - ...
+    - Mathematics
+        - ...
     - ...
 - 4 Archive
+    - Lorem Ipsum
+        - ...
     - ...
 ```
 
