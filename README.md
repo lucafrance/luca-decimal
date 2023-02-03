@@ -6,7 +6,8 @@ Main structure with 4 folders from *second brain*.
 - 4 Archive
 ```
 
-Folders in *Projects* are numbered starting with 100 and increasing
+Folders in *Projects* are always numbered starting with 100 and increasing.
+If you start a new project, add the next number and name of the project.
 ```
 - 1 Projects
     - 100 duohausdhs
@@ -65,6 +66,28 @@ After:
 - 4 Archive
     - ...
     - Lorem Ipsum
+    - ...
+```
+
+Additional level of numbering can be included *Jonny Decimal* style for numbered folders.
+```
+- 1 Projects
+    - ...
+- 2 Areas
+    - ...
+    - 221 sdhasudhaus
+        - 202.01 idasuhd
+        - 202.02 eujasidj
+        - 202.03 dihasudha
+    - ...
+- 3 Resources
+    - ...
+    - 312 sdhasudhaus
+        - 312.01 aoishad
+        - 312.02 adhqoisjdwai
+        - 312.03 asidhasudh
+    - ...
+- 4 Archive
     - ...
 ```
 
