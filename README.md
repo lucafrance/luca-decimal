@@ -55,28 +55,34 @@ To add a new project, e.g. finding a birthday present dor John, you add a folder
 
 ## Folder structure in *2 Areas* and *3 Resources*
 
-Folders in *Areas* and *Resources* don't need to be numbered.
-Some or all may be numbered to "pin" them on the top.
+Folders in *2 Areas* and *3 Resources* don't need to be numbered.
+Some folders may be indexed with a prefix (201, 202, 203, ..., 301, 302, 303, ...) to "pin" them to the top when sorted alphabetically.
 ```
 - 1 Projects
+    - ...
 - 2 Areas
-    - 200 duohausdhs
-    - 201 sdoihasu<odh
-    - 202 sdhasudhaus
-    - asuhausidhsau
-    - buoadshsuai
-    - cauiasuj
-    - saydhasudh
+    - 200 Health
+    - 201 Finances
+    - 202 Work
+    - 203 Family pictures
+    - ID documents
+    - Travel card
+    - Utilities bills
+    - ...
 - 3 Resources
-    - 300 duohausdhs
-    - 301 sdoihasu<odh
-    - 302 sdhasudhaus
-    - asuhausidhsau
-    - buoadshsuai
-    - cauiasuj
-    - saydhasudh
+    - 300 Books
+    - 301 Comics
+    - 302 Software
+    - History documentaries
+    - Instruction manuals
+    - Mathematics
+    - ...
 - 4 Archive
+    - ...
 ```
+
+If used, the indexing logic in *2 Areas*, *3 Resources* is different than the one in *1 Projects*.
+In *1 Projects* the index sorts the folders by creation date, in *2 Areas*, *3 Resources* you define the order which makes the most sense to you. 
 
 ## Folder structure in *4 Archive*
 
