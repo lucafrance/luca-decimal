@@ -1,7 +1,8 @@
 # Luca Decimal Specification
 
-TODO intro: what is this, what is it for
-TODO add link to blog post of motivation later
+This is the specification of *Luca-decimal*, the system I designed over time to organize my digital life.
+It has been influenced by [*Johnny Decimal*](https://johnnydecimal.com/), a system inspired by *Dewey Decimal*.
+It is also influenced by [*Second Brain*](https://www.buildingasecondbrain.com/), a system designed for note-taking, but which can also be used for other purposes.
 
 ## Main structure
 
