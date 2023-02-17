@@ -2,11 +2,11 @@
 
 This is the specification of *Luca-decimal*, the system I designed over time to organize my digital life.
 It has been influenced by [*Johnny Decimal*](https://johnnydecimal.com/), a system inspired by *Dewey Decimal*.
-It is also influenced by [*Second Brain*](https://www.buildingasecondbrain.com/), a system designed for note-taking, but which can also be used for other purposes.
+It is also influenced by [*PARA*](https://fortelabs.com/blog/series/para/), a note-taking system.
 
 **Key principles**
 
-- acting > not acting
+- Acting is always preferred to not acting.
 - Any mental burden on starting something new must be removed.
 Better to create more messier, than to create less orderly.
 
@@ -15,7 +15,7 @@ Better to create more messier, than to create less orderly.
 There are four main folders: *1 Projects*, *2 Areas*, *3 Resources*, *4 Archive*.
 The purpose of each folder is based on the kind of action you are performing:
 
-1. Something I am acting on for a limited timeframe. → Projects
+1. Something I am acting on for a limited time frame. → Projects
 2. Something I am regularly acting on. → Areas
 3. Something I am not acting on, but might be useful to act. → Resources
 4. Something I am no longer acting on. → Archive
@@ -44,13 +44,13 @@ Each folder in *1 Projects* has a prefix starting with 100 and increasing.
     - ...
 ```
 
-To add a new project, e.g. finding a birthday present dor John, you add a folder with the number prefix.
+To add a new project, e.g. finding a birthday present for Johnny, you add a folder with the number prefix.
 ```
 - 1 Projects
     - 100 Learn COBOL
     - 101 Taxes 2022
     - 102 Roof repair
-    - 103 Birthday present for John
+    - 103 Birthday present for Johnny
 - 2 Areas
     - ...
 - 3 Resources
@@ -123,7 +123,7 @@ After:
 
 ## Subfolders indexing
 
-You may decide to index subfolders ().01, .02, .03, ...) similarly to [*Jonny Decimal*'s IDs](https://johnnydecimal.com/concepts/ids/).
+You may decide to index subfolders (.01, .02, .03, ...) similarly to [*Jonny Decimal*'s IDs](https://johnnydecimal.com/concepts/ids/).
 When in doubt, don't index to avoid mental burden.
 If any kind naming convention makes more sense (e.g. by date), use it.
 
@@ -177,20 +177,23 @@ If any kind naming convention makes more sense (e.g. by date), use it.
 
 ## Consistency among different apps
 
-Consistency among systems.
-All programs should follow the same structure.
-- Local files.
-- Note taking apps.
-- Todo-apps
+Whichever structure and indexes are used, they must be kept consistent among all applications:
 
-It doesn't need to be replicated everywhere all the time, but if anything related is across multiple programs it must stay consistent.
-Example:
-> You have an folder in *2 Areas* called *201 Health*, where you save the pdfs of your exams.
-> You don't need *Health* in your note taking and todo apps right away.
-> If you add a reminder in your todo-app for a yearly check-up, then you should also name it *Health*.
-> If you add a note of the opening times of your doctor, it also must end up in a folder called *Health*.
+- local files,
+- note taking apps,
+- todo-apps.
 
-TODO screenshot d'esempio
+There is no need to replicate the whole structure on each system constantly.
+It is only necessary to ensure consistency once a topic is shared across multiple applications.
+
+**Example**
+
+- You have a folder in *2 Areas* called *201 Health*, where you save the pdfs of your doctor exams.
+- You don't need a *Health* folder in your note taking and todo apps right away.
+- If you add a reminder in your todo-app for a yearly check-up, then you should add it to a *201 Health* folder.
+- If you add a note for the opening times of your doctor, it must also end up in a folder called *201 Health*.
+
+Both [Johnny Decimal](https://johnnydecimal.com/concepts/keeping-notes) and [PARA](https://fortelabs.com/blog/para-setup-guide/) share a similar instruction.
 
 ## License
 
