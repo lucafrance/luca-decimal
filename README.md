@@ -125,7 +125,7 @@ After:
 
 You may decide to index subfolders (.01, .02, .03, ...) similarly to [*Jonny Decimal*'s IDs](https://johnnydecimal.com/concepts/ids/).
 When in doubt, don't index to avoid mental burden.
-If any kind naming convention makes more sense (e.g. by date), use it.
+If any other kind of naming convention makes more sense (e.g. by date), use it.
 
 ```
 - 1 Projects
