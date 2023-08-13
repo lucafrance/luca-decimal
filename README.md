@@ -1,18 +1,18 @@
 # Luca Decimal Specification
 
 This is the specification of *Luca-decimal*, the system I designed over time to organize my digital life.
-It has been influenced by [*Johnny Decimal*](https://johnnydecimal.com/), a system inspired by *Dewey Decimal*.
-It is also influenced by [*PARA*](https://fortelabs.com/blog/series/para/), a note-taking system.
+It has been influenced by:
+- [*Johnny Decimal*](https://johnnydecimal.com/), a system inspired by *Dewey Decimal*.
+- [*Building a Second Brain*](https://www.buildingasecondbrain.com/), a note-taking system.
 
 **Key principles**
 
 - Acting is always preferred to not acting.
-- Any mental burden on starting something new must be removed.
-Better to create more messier, than to create less orderly.
+- Better to create more messier, than to create less orderly.
 
 ## Main structure
 
-There are four main folders: *1 Projects*, *2 Areas*, *3 Resources*, *4 Archive*.
+Start with the [four main folders of *Building a Second Brain*](https://fortelabs.com/blog/para/): *1 Projects*, *2 Areas*, *3 Resources*, *4 Archive*.
 The purpose of each folder is based on the kind of action you are performing:
 
 1. Something I am acting on for a limited time frame. → Projects
@@ -88,14 +88,15 @@ Some folders may be indexed with a prefix (201, 202, 203, ..., 301, 302, 303, ..
 ```
 
 If used, the indexing logic in *2 Areas*, *3 Resources* is different than the one in *1 Projects*.
-In *1 Projects* the index sorts the folders by creation date, in *2 Areas*, *3 Resources* you define the order which makes the most sense to you. 
+- In *1 Projects* the index sorts the folders by creation date.
+- In *2 Areas*, *3 Resources* you define the order which makes the most sense to you.
 
 ## Folder structure in *4 Archive*
 
 There is no naming restriction in *4 Archive*.
-When archiving a folder, you might decide to remove the index to avoid confusion.
+When archiving a folder, consider removing the index to avoid confusion.
 
-E.g. project *117 Lorem Ipsum* is complete, you rename it to *Lorem Ipsum* and move it  to archive.
+E.g. project *117 Lorem Ipsum* is complete, you rename it to *Lorem Ipsum* and move it  to *4 Archive*.
 
 Before:
 ```
@@ -124,7 +125,7 @@ After:
 ## Subfolders indexing
 
 You may decide to index subfolders (.01, .02, .03, ...) similarly to [*Jonny Decimal*'s IDs](https://johnnydecimal.com/concepts/ids/).
-When in doubt, don't index to avoid mental burden.
+When in doubt, don't index.
 If any other kind of naming convention makes more sense (e.g. by date), use it.
 
 ```
@@ -188,12 +189,18 @@ It is only necessary to ensure consistency once a topic is shared across multipl
 
 **Example**
 
-- You have a folder in *2 Areas* called *201 Health*, where you save the pdfs of your doctor exams.
+- You have a folder in *2 Areas* called *201 Health*, where you save the pdfs of your exams results.
 - You don't need a *Health* folder in your note taking and todo apps right away.
 - If you add a reminder in your todo-app for a yearly check-up, then you should add it to a *201 Health* folder.
 - If you add a note for the opening times of your doctor, it must also end up in a folder called *201 Health*.
 
 Both [Johnny Decimal](https://johnnydecimal.com/concepts/keeping-notes) and [PARA](https://fortelabs.com/blog/para-setup-guide/) share a similar instruction.
+
+## Links
+
+- [Blog post about the logic behind the system](https://lucaf.eu/2023/02/23/luca-decimal.html)
+- [Building a Second Brain](https://www.buildingasecondbrain.com/)
+- [Johnny Decimal](https://johnnydecimal.com/)
 
 ## License
 
